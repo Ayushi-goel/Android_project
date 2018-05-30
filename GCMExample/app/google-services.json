@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "518859356169",
+    "project_id": "psychic-trainer-176317"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518859356169:android:c2abb0e085bd6aad",
+        "android_client_info": {
+          "package_name": "com.example.aayushi.gcmexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518859356169-d79qp374d7t3e21k1lo1lhnbglsimfs2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPljuWH2EwE5tAzOmL3BGzh9GWuPf9DQk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
